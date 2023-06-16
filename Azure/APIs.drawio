@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T09:59:41.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q31gSWy_Qm4HIcDTQq8G" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T10:02:50.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zrY3Y-dZDjd4irbj4t3A" version="21.4.0" type="github">
   <diagram name="Azure APIM" id="FQYkhz4R97Zdj5RdxRJX">
     <mxGraphModel dx="989" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="9Cf-OM5eOuJeUalF6E-m-21" value="Select Function App and choose template such as HTTP Trigger" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-22" value="Provide name, auth level and create function" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-23" value="Choose Code and test to modify function" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.3 Create APIs in&lt;br&gt;APIM instances (Linking Function App)&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-25" value="In APIM choose the function app and link it to create API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-26" value="Verify that API shows the backend as function app" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
