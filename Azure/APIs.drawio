@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T09:48:52.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="pXKOJCj7LpJyXmFBg3OH" type="github">
-  <diagram name="Page-1" id="FQYkhz4R97Zdj5RdxRJX">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-06-16T09:51:44.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2s6LL6CgnMAAwL-tBac0" version="21.4.0" type="github">
+  <diagram name="Azure APIM" id="FQYkhz4R97Zdj5RdxRJX">
+    <mxGraphModel dx="989" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create Instance&lt;br&gt;of APIM&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-6" value="Initiate Creating&lt;br&gt;APIM instance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-7" value="Create a Resource Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-8" value="Create App Insights Instance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Cf-OM5eOuJeUalF6E-m-9" value="Complete APIM Instance creation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
