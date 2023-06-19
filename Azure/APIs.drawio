@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T13:22:22.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yxXqDXYR5adRY0ExW6_W" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-19T13:23:25.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="22fMU2fqiR8hJBul1AmH" version="21.4.0" type="github" pages="2">
   <diagram id="XbryqowFVEn3MWn_p3Y4" name="Azure APIM">
-    <mxGraphModel dx="2284" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,14 +34,19 @@
         <mxCell id="pWqerIktNfeGbbAfNVT3-43" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pWqerIktNfeGbbAfNVT3-2" target="pWqerIktNfeGbbAfNVT3-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wWfDM2WPRMfSye_wUgU3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="pWqerIktNfeGbbAfNVT3-2" target="wWfDM2WPRMfSye_wUgU3-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wWfDM2WPRMfSye_wUgU3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pWqerIktNfeGbbAfNVT3-2" target="wWfDM2WPRMfSye_wUgU3-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="461" y="170" />
+              <mxPoint x="560" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pWqerIktNfeGbbAfNVT3-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;APIs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWqerIktNfeGbbAfNVT3-4" value="Needs a backend service such as function app" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWqerIktNfeGbbAfNVT3-14" value="Need Resource Grp" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="100" width="120" height="40" as="geometry" />
@@ -131,10 +136,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wWfDM2WPRMfSye_wUgU3-4" value="Mock APIs" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wWfDM2WPRMfSye_wUgU3-6" value="Test APIs and allow consumers to experience APIs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
