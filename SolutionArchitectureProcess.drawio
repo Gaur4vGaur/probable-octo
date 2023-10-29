@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T20:58:51.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="l_Cky_Bnt5CbJKbLgnD1" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-29T22:31:53.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VPqntTPOhjnZ-Vdcrjta" version="22.0.8" type="github" pages="5">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,25 +15,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-olUfDViTtobgnhzZmUX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1" source="-olUfDViTtobgnhzZmUX-1" target="-olUfDViTtobgnhzZmUX-4">
+        <mxCell id="-olUfDViTtobgnhzZmUX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" source="-olUfDViTtobgnhzZmUX-1" target="-olUfDViTtobgnhzZmUX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-olUfDViTtobgnhzZmUX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1" source="-olUfDViTtobgnhzZmUX-1" target="-olUfDViTtobgnhzZmUX-8">
+        <mxCell id="-olUfDViTtobgnhzZmUX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" source="-olUfDViTtobgnhzZmUX-1" target="-olUfDViTtobgnhzZmUX-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-olUfDViTtobgnhzZmUX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1" source="-olUfDViTtobgnhzZmUX-1" target="-olUfDViTtobgnhzZmUX-10">
+        <mxCell id="-olUfDViTtobgnhzZmUX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" source="-olUfDViTtobgnhzZmUX-1" target="-olUfDViTtobgnhzZmUX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-olUfDViTtobgnhzZmUX-1" value="1. Design Purpose" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-olUfDViTtobgnhzZmUX-1" value="1. Design Purpose" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="365" y="290" width="145" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-olUfDViTtobgnhzZmUX-4" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish Purpose&lt;br&gt;- Estimation, new increment etc.&lt;br&gt;- Primary Requirements&lt;br&gt;- Any NFRs&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="-olUfDViTtobgnhzZmUX-4" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish Purpose&lt;br&gt;- Estimation, new increment etc.&lt;br&gt;- Primary Requirements&lt;br&gt;- Any NFRs&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="235" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-olUfDViTtobgnhzZmUX-8" value="Perform any requirement elicitation" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="-olUfDViTtobgnhzZmUX-8" value="Perform any requirement elicitation" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="377" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-olUfDViTtobgnhzZmUX-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish Design Process based on requirements:&lt;br&gt;- Design a new app in a mature domain&lt;br&gt;- Design a new app in a new domain&lt;br&gt;- Design an existing app (enhancement or refactoring)&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="-olUfDViTtobgnhzZmUX-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish Design Process based on requirements:&lt;br&gt;- Design a new app in a mature domain&lt;br&gt;- Design a new app in a new domain&lt;br&gt;- Design an existing app (enhancement or refactoring)&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="600" y="280" width="390" height="90" as="geometry" />
         </mxCell>
       </root>
@@ -44,32 +44,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cinQYOOY11hzZGB6xDpx-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1" source="cinQYOOY11hzZGB6xDpx-4" target="cinQYOOY11hzZGB6xDpx-5">
+        <mxCell id="cinQYOOY11hzZGB6xDpx-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" source="cinQYOOY11hzZGB6xDpx-4" target="cinQYOOY11hzZGB6xDpx-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cinQYOOY11hzZGB6xDpx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1" source="cinQYOOY11hzZGB6xDpx-4" target="cinQYOOY11hzZGB6xDpx-6">
+        <mxCell id="cinQYOOY11hzZGB6xDpx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" source="cinQYOOY11hzZGB6xDpx-4" target="cinQYOOY11hzZGB6xDpx-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cinQYOOY11hzZGB6xDpx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1" source="cinQYOOY11hzZGB6xDpx-4" target="cinQYOOY11hzZGB6xDpx-7">
+        <mxCell id="cinQYOOY11hzZGB6xDpx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" source="cinQYOOY11hzZGB6xDpx-4" target="cinQYOOY11hzZGB6xDpx-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cinQYOOY11hzZGB6xDpx-4" value="2. Establish Goals based on drivers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="cinQYOOY11hzZGB6xDpx-4" value="2. Establish Goals based on drivers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="365" y="290" width="145" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cinQYOOY11hzZGB6xDpx-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish users&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cinQYOOY11hzZGB6xDpx-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish users&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="310" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cinQYOOY11hzZGB6xDpx-6" value="Establish Use cases" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cinQYOOY11hzZGB6xDpx-6" value="Establish Use cases" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="361" y="180" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cinQYOOY11hzZGB6xDpx-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish&lt;br&gt;- constraints, risks, concerns&lt;br&gt;- quality attributes&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cinQYOOY11hzZGB6xDpx-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Establish&lt;br&gt;- constraints, risks, concerns&lt;br&gt;- quality attributes&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="597" y="290" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZPUuxGHFWNVDLs0plcYH" name="3.DesignConcepts">
-    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,20 +85,70 @@
         <mxCell id="Rq5si-C3g_Ew0tSqmwLX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jo2YYCk7K3ztbunFu3CF-4" target="Rq5si-C3g_Ew0tSqmwLX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jo2YYCk7K3ztbunFu3CF-4" value="3. Choose one ore more design concepts" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Jo2YYCk7K3ztbunFu3CF-4" value="3. Choose one or more design concepts" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="365" y="290" width="145" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Jo2YYCk7K3ztbunFu3CF-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;Buy vs Built&lt;br&gt;Considerations to buy&lt;br&gt;- problem it solves, cost, type of license, support, learning curve, maturity, popularity, impact of scalability, compatibility and ease of integration, support for other critical config&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="50" y="235" width="235" height="180" as="geometry" />
+        <mxCell id="Jo2YYCk7K3ztbunFu3CF-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Buy vs Built&lt;br&gt;Considerations to buy&lt;br&gt;- problem it solves, cost, type of license, support, learning curve, maturity, popularity, impact of scalability, compatibility and ease of integration, support for other critical config&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="50" y="247" width="235" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="Jo2YYCk7K3ztbunFu3CF-6" value="How to identify design concept&lt;br&gt;- CBAM (Cost benefit analysis method)&lt;br&gt;- SWOT&lt;br&gt;- Prototypes (choose for emerging/new tech, high risk, lack of trust in tech)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;align=left;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="Jo2YYCk7K3ztbunFu3CF-6" value="How to identify design concept&lt;br&gt;- CBAM (Cost benefit analysis method)&lt;br&gt;- SWOT&lt;br&gt;- Prototypes (choose for emerging/new tech, high risk, lack of trust in tech)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="293" y="110" width="289" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Jo2YYCk7K3ztbunFu3CF-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;Three Stages of Design&lt;br&gt;1. Architecture Design - focus on primary use case to achieve objective&lt;br&gt;2. Elements Interaction Design&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;focus on NFRs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Interaction of elements&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;assign work&amp;nbsp; to individual teams (team formation, outsourcing, budget etc.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;3. Element internal design - internal pattern and interfaces&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="jboRrlm7Mk3dA4BTt7vZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Jo2YYCk7K3ztbunFu3CF-7" target="jboRrlm7Mk3dA4BTt7vZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jo2YYCk7K3ztbunFu3CF-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Three Stages of Design&lt;br&gt;1. Architecture Design - focus on primary use case to achieve objective&lt;br&gt;2. Elements Interaction Design&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;focus on NFRs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Interaction of elements&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;assign work&amp;nbsp; to individual teams (team formation, outsourcing, budget etc.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;3. Element internal design - internal pattern and interfaces&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="597" y="215" width="493" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Rq5si-C3g_Ew0tSqmwLX-1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;Design Concepts&lt;br&gt;- Reference Architecture&lt;br&gt;- Architecture design pattern&lt;br&gt;- Deployment patterns&lt;br&gt;- Tactics&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="jboRrlm7Mk3dA4BTt7vZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Rq5si-C3g_Ew0tSqmwLX-1" target="jboRrlm7Mk3dA4BTt7vZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rq5si-C3g_Ew0tSqmwLX-1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Design Concepts&lt;br&gt;- Reference Architecture&lt;br&gt;- Architecture design pattern&lt;br&gt;- Deployment patterns&lt;br&gt;- Tactics&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="337" y="407" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jboRrlm7Mk3dA4BTt7vZ-1" value="These cross over to next stage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="527" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="4.InstantiateArchitecture" id="OWa8xHaXATcfjxJtcbS2">
+    <mxGraphModel dx="2284" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="JWhYLG6qNykH6MCa032a-0" />
+        <mxCell id="JWhYLG6qNykH6MCa032a-1" parent="JWhYLG6qNykH6MCa032a-0" />
+        <mxCell id="JWhYLG6qNykH6MCa032a-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="JWhYLG6qNykH6MCa032a-1" source="JWhYLG6qNykH6MCa032a-6" target="JWhYLG6qNykH6MCa032a-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWhYLG6qNykH6MCa032a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="JWhYLG6qNykH6MCa032a-1" source="JWhYLG6qNykH6MCa032a-6" target="JWhYLG6qNykH6MCa032a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWhYLG6qNykH6MCa032a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JWhYLG6qNykH6MCa032a-1" source="JWhYLG6qNykH6MCa032a-6" target="JWhYLG6qNykH6MCa032a-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TyW0gQUrKuBJCdhzjJoX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JWhYLG6qNykH6MCa032a-1" source="JWhYLG6qNykH6MCa032a-6" target="TyW0gQUrKuBJCdhzjJoX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWhYLG6qNykH6MCa032a-6" value="4. Instantiate Architecture Components" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="JWhYLG6qNykH6MCa032a-1">
+          <mxGeometry x="365" y="290" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JWhYLG6qNykH6MCa032a-7" value="APIs and Interfaces&lt;br&gt;- Design external interfaces&lt;br&gt;- Design internal interfaces" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="JWhYLG6qNykH6MCa032a-1">
+          <mxGeometry x="930" y="292" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JWhYLG6qNykH6MCa032a-8" value="Start producing structure (this is thinking about actual tech implementation)&lt;br&gt;- Module structure&lt;br&gt;- component connector&lt;br&gt;- allocation structure" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="JWhYLG6qNykH6MCa032a-1">
+          <mxGeometry x="293" y="110" width="289" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JWhYLG6qNykH6MCa032a-9" value="&lt;span style=&quot;&quot;&gt;Establish relationship between elements&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;- Synch/Asynch&lt;br&gt;&lt;/span&gt;- Network communication&lt;br&gt;- Protocol&lt;br&gt;- How much data and at what rate" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="JWhYLG6qNykH6MCa032a-1">
+          <mxGeometry x="597" y="272.5" width="283" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="JWhYLG6qNykH6MCa032a-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Instantiate elements based on&lt;br&gt;- Reference Architecture&lt;br&gt;- Architecture design pattern&lt;br&gt;&lt;br&gt;Also other aspects&lt;br&gt;- Config options&lt;br&gt;- Statefullness&lt;br&gt;- Resource management&lt;br&gt;- Priority, or&lt;br&gt;- any other special considerations such as h/w characteristics&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="JWhYLG6qNykH6MCa032a-1">
+          <mxGeometry x="308" y="415" width="259" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="TyW0gQUrKuBJCdhzjJoX-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JWhYLG6qNykH6MCa032a-1" source="JWhYLG6qNykH6MCa032a-9" target="JWhYLG6qNykH6MCa032a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TyW0gQUrKuBJCdhzjJoX-1" value="- Identify Properties&lt;br&gt;- Associate Responsibilities to components&lt;br&gt;- Allocate teams&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="JWhYLG6qNykH6MCa032a-1">
+          <mxGeometry x="-30" y="295" width="302.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
