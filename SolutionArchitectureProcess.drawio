@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T22:31:53.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VPqntTPOhjnZ-Vdcrjta" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-29T22:33:26.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BJ-mIN_IwlaCHItaNAwo" version="22.0.8" type="github" pages="6">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,6 +149,23 @@
         </mxCell>
         <mxCell id="TyW0gQUrKuBJCdhzjJoX-1" value="- Identify Properties&lt;br&gt;- Associate Responsibilities to components&lt;br&gt;- Allocate teams&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="JWhYLG6qNykH6MCa032a-1">
           <mxGeometry x="-30" y="295" width="302.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0E0Pf-oy4X-SUyq2GDQR" name="5.DocumentArchitecture">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TeDSJqdLNqCKsQhEtPBW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" edge="1" parent="1" source="TeDSJqdLNqCKsQhEtPBW-5" target="TeDSJqdLNqCKsQhEtPBW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeDSJqdLNqCKsQhEtPBW-5" value="5. Documenting Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TeDSJqdLNqCKsQhEtPBW-7" value="Record Decisions and boards&lt;br&gt;- Solution Overview&lt;br&gt;- Other documentation" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="293" y="110" width="289" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
