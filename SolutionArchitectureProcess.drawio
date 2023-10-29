@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T07:40:25.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4H8ZIsA3Btcwl3Janfhr" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-29T07:49:41.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DjVpF8JszTiTrT7bispY" version="22.0.8" type="github" pages="4">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,8 +91,8 @@
         <mxCell id="Jo2YYCk7K3ztbunFu3CF-6" value="How to identify design concept&lt;br&gt;- CBAM (Cost benefit analysis method)&lt;br&gt;- SWOT&lt;br&gt;- Prototypes (choose for emerging/new tech, high risk, lack of trust in tech)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="293" y="110" width="289" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Jo2YYCk7K3ztbunFu3CF-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Three Stages of Design&lt;br&gt;1. Architecture Design - focus on primary use case to achieve objective&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="597" y="290" width="493" height="70" as="geometry" />
+        <mxCell id="Jo2YYCk7K3ztbunFu3CF-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;Three Stages of Design&lt;br&gt;1. Architecture Design - focus on primary use case to achieve objective&lt;br&gt;2. Elements Interaction Design&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;focus on NFRs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Interaction of elements&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;assign work&amp;nbsp; to individual teams (team formation, outsourcing, budget etc.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;3. Element internal design - internal pattern and interfaces&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="597" y="215" width="493" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
