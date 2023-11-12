@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T00:07:34.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="skOxqM9G8_fkzd0lhGye" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-12T00:07:58.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="37FDob7PXciAYMEEeLi3" version="22.1.0" type="github" pages="2">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,29 +116,6 @@
         </mxCell>
         <mxCell id="bTNlWyWbU5OQJY8QZp7x-5" value="Architecture Backlog" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="1660" width="160" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="0E0Pf-oy4X-SUyq2GDQR" name="5.DocumentArchitecture">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="TeDSJqdLNqCKsQhEtPBW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" source="TeDSJqdLNqCKsQhEtPBW-5" target="TeDSJqdLNqCKsQhEtPBW-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TeDSJqdLNqCKsQhEtPBW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TeDSJqdLNqCKsQhEtPBW-5" target="TeDSJqdLNqCKsQhEtPBW-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TeDSJqdLNqCKsQhEtPBW-5" value="5. Documenting Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="365" y="290" width="145" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TeDSJqdLNqCKsQhEtPBW-7" value="Record Decisions and boards&lt;br&gt;- Solution Overview&lt;br&gt;- Other documentation" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="293" y="110" width="289" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="TeDSJqdLNqCKsQhEtPBW-12" value="Architecture Backlog" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;fontStyle=0;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="152.5" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
