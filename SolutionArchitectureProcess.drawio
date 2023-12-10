@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T14:06:59.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kbKCGlWecsMtHlTlqLYw" version="22.1.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-10T14:22:27.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4LkgrDeHIkHdGtwfGljJ" version="22.1.7" type="github" pages="5">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LshDc3MtuV5W4-pdeo2u" name="3. Event Storming">
-    <mxGraphModel dx="1235" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -412,6 +412,12 @@
         </mxCell>
         <mxCell id="L87suourNrEui-y8AHtw-5" value="Chapter 8 - Component Based Thinking from Fundamentals of Software Architecture Book by Mark Richards and Neal Ford" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="587" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0uOXV00goowmVCazmS-1" value="&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Actor/Action Approach&lt;/font&gt;&lt;/h3&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Identify Actors in the application&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Identify actions they can perform&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;May need significant upfront design&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;works well to identify distinct roles and requirements&lt;/font&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0uOXV00goowmVCazmS-2" value="&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Workflow Approach&lt;/font&gt;&lt;/h3&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Identify workflow, key roles, different kinds of workflows&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;model components around workflow&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Similar to event storming but event is not a central part of consideration&lt;/div&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="375" y="640" width="385" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
