@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-24T23:12:24.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1Mo6m_X_vaACfVTst1lE" version="22.1.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-24T23:30:48.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="R6qUTCFXPR_fqL0lfPl5" version="22.1.11" type="github" pages="6">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
-    <mxGraphModel dx="1502" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6wRkbpeY6bBnXJpjK5oW-1" value="&lt;h1 style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Solution Architecture Process&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;In this workspace, I am trying to establish&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;- how to design from scratch&lt;br&gt;- trying to collate activities for solution architects in a project&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Index&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Page 1. Design Process&amp;nbsp;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;a. Design process from Designing Software Architecture - A practical approach by Humberto Cervantes, Rick Kazman&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;b. Chapter 8 - Component Based Thinking from Fundamentals of Software Architecture Book by Mark Richards and Neal Ford&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;2. Design Process from Learning Domain Driven Design&amp;nbsp;&amp;nbsp;Book by Vlad Khononov&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;3. Design Process from Learning Domain Driven Design&amp;nbsp;&amp;nbsp;Book by Vlad Khononov&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="780" height="510" as="geometry" />
+        <mxCell id="6wRkbpeY6bBnXJpjK5oW-1" value="&lt;h1 style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Solution Architecture Process&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;In this workspace, I am trying to establish&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;- how to design from scratch&lt;br&gt;- trying to collate activities for solution architects in a project&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Index&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Page 1. Design Process&amp;nbsp;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;a. Design process from Designing Software Architecture - A practical approach by Humberto Cervantes, Rick Kazman&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;b. Chapter 8 - Component Based Thinking from Fundamentals of Software Architecture Book by Mark Richards and Neal Ford&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;2. Design Process from Learning Domain Driven Design&amp;nbsp;&amp;nbsp;Book by Vlad Khononov&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;3. Event Storming -&amp;nbsp;Fundamentals of Software Architecture Book by Mark Richards and Neal Ford&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. NFRS -&amp;nbsp;Fundamentals of Software Architecture Book by Mark Richards and Neal Ford&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. ADRs -&lt;/span&gt;&amp;nbsp;Fundamentals of Software Architecture Book by Mark Richards and Neal Ford&lt;/p&gt;&lt;p style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; border-color: var(--border-color); font-size: 17px;&quot;&gt;&lt;br style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="780" height="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -649,7 +649,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.ADRs" id="V3-IFChKMO80iZB2NZ5_">
-    <mxGraphModel dx="724" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pS6SolYBH5boPpqod_it-0" />
         <mxCell id="pS6SolYBH5boPpqod_it-1" parent="pS6SolYBH5boPpqod_it-0" />
@@ -665,102 +665,146 @@
             <mxPoint x="736" y="57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pS6SolYBH5boPpqod_it-19" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Identifying NFRs&lt;/b&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+        <mxCell id="pS6SolYBH5boPpqod_it-19" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;ADRs&lt;/b&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
           <mxGeometry x="6" y="17" width="810" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-40" value="Format of ADRs" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=12;fontStyle=1;verticalAlign=top;" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
-          <mxGeometry x="40" y="120" width="414" height="327" as="geometry" />
+          <mxGeometry x="40" y="120" width="380" height="220" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pS6SolYBH5boPpqod_it-40">
-          <mxGeometry y="30" width="414" height="28" as="geometry" />
+          <mxGeometry y="30" width="380" height="28" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-42" value="Title" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;textDirection=ltr;" vertex="1" parent="pS6SolYBH5boPpqod_it-41">
-          <mxGeometry width="112" height="28" as="geometry">
-            <mxRectangle width="112" height="28" as="alternateBounds" />
+          <mxGeometry width="80" height="28" as="geometry">
+            <mxRectangle width="80" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-43" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Title of ADR, can also have TLDR section&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-41">
-          <mxGeometry x="112" width="302" height="28" as="geometry">
-            <mxRectangle width="302" height="28" as="alternateBounds" />
+          <mxGeometry x="80" width="300" height="28" as="geometry">
+            <mxRectangle width="300" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-40">
-          <mxGeometry y="58" width="414" height="70" as="geometry" />
+          <mxGeometry y="58" width="380" height="32" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-45" value="Status" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-44">
-          <mxGeometry width="112" height="70" as="geometry">
-            <mxRectangle width="112" height="70" as="alternateBounds" />
+          <mxGeometry width="80" height="32" as="geometry">
+            <mxRectangle width="80" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pS6SolYBH5boPpqod_it-46" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Proposed, Accepted, Superseded ( can reference as Su&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;verticalAlign=top;align=left;fontSize=10;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="pS6SolYBH5boPpqod_it-44">
-          <mxGeometry x="112" width="302" height="70" as="geometry">
-            <mxRectangle width="302" height="70" as="alternateBounds" />
+        <mxCell id="pS6SolYBH5boPpqod_it-46" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Proposed, Accepted, Superseded ( can reference as Superseded by or Supersedes), Request for Comment (with Deadline)&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;verticalAlign=top;align=left;fontSize=10;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="pS6SolYBH5boPpqod_it-44">
+          <mxGeometry x="80" width="300" height="32" as="geometry">
+            <mxRectangle width="300" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pS6SolYBH5boPpqod_it-40">
-          <mxGeometry y="128" width="414" height="61" as="geometry" />
+          <mxGeometry y="90" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-48" value="Context" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="pS6SolYBH5boPpqod_it-47">
-          <mxGeometry width="112" height="61" as="geometry">
-            <mxRectangle width="112" height="61" as="alternateBounds" />
+          <mxGeometry width="80" height="20" as="geometry">
+            <mxRectangle width="80" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pS6SolYBH5boPpqod_it-49" value="Measure data travelling through network&lt;br&gt;As number of call increases, the bandwidth decreases, &lt;br&gt;resulting in low latency and decreased reliability" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-47">
-          <mxGeometry x="112" width="302" height="61" as="geometry">
-            <mxRectangle width="302" height="61" as="alternateBounds" />
+        <mxCell id="pS6SolYBH5boPpqod_it-49" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-47">
+          <mxGeometry x="80" width="300" height="20" as="geometry">
+            <mxRectangle width="300" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pS6SolYBH5boPpqod_it-40">
-          <mxGeometry y="189" width="414" height="30" as="geometry" />
+          <mxGeometry y="110" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-51" value="Decision" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-50">
-          <mxGeometry width="112" height="30" as="geometry">
-            <mxRectangle width="112" height="30" as="alternateBounds" />
+          <mxGeometry width="80" height="30" as="geometry">
+            <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pS6SolYBH5boPpqod_it-52" value="With microservice, threat area increases" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-50">
-          <mxGeometry x="112" width="302" height="30" as="geometry">
-            <mxRectangle width="302" height="30" as="alternateBounds" />
+        <mxCell id="pS6SolYBH5boPpqod_it-52" value="Decision given by" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-50">
+          <mxGeometry x="80" width="300" height="30" as="geometry">
+            <mxRectangle width="300" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pS6SolYBH5boPpqod_it-40">
-          <mxGeometry y="219" width="414" height="53" as="geometry" />
+          <mxGeometry y="140" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-54" value="Consequence" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-53">
-          <mxGeometry width="112" height="53" as="geometry">
-            <mxRectangle width="112" height="53" as="alternateBounds" />
+          <mxGeometry width="80" height="20" as="geometry">
+            <mxRectangle width="80" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pS6SolYBH5boPpqod_it-55" value="Changes in network can invalidate all latency measures&lt;br&gt;Always consider network firewalls, network upgrades &lt;br&gt;or any other threat measure" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-53">
-          <mxGeometry x="112" width="302" height="53" as="geometry">
-            <mxRectangle width="302" height="53" as="alternateBounds" />
+        <mxCell id="pS6SolYBH5boPpqod_it-55" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-53">
+          <mxGeometry x="80" width="300" height="20" as="geometry">
+            <mxRectangle width="300" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pS6SolYBH5boPpqod_it-40">
-          <mxGeometry y="272" width="414" height="28" as="geometry" />
+          <mxGeometry y="160" width="380" height="28" as="geometry" />
         </mxCell>
         <mxCell id="pS6SolYBH5boPpqod_it-57" value="Compliance" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-56">
-          <mxGeometry width="112" height="28" as="geometry">
-            <mxRectangle width="112" height="28" as="alternateBounds" />
+          <mxGeometry width="80" height="28" as="geometry">
+            <mxRectangle width="80" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pS6SolYBH5boPpqod_it-58" value="API Calls + DB Calls and actual dollar value" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-56">
-          <mxGeometry x="112" width="302" height="28" as="geometry">
-            <mxRectangle width="302" height="28" as="alternateBounds" />
+        <mxCell id="pS6SolYBH5boPpqod_it-58" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="pS6SolYBH5boPpqod_it-56">
+          <mxGeometry x="80" width="300" height="28" as="geometry">
+            <mxRectangle width="300" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ru9Dy9kyQV0VUibr210g-0" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pS6SolYBH5boPpqod_it-40">
-          <mxGeometry y="300" width="414" height="27" as="geometry" />
+          <mxGeometry y="188" width="380" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ru9Dy9kyQV0VUibr210g-1" value="Notes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="ru9Dy9kyQV0VUibr210g-0">
-          <mxGeometry width="112" height="27" as="geometry">
-            <mxRectangle width="112" height="27" as="alternateBounds" />
+          <mxGeometry width="80" height="32" as="geometry">
+            <mxRectangle width="80" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ru9Dy9kyQV0VUibr210g-2" value="API Calls + DB Calls and actual dollar value" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="ru9Dy9kyQV0VUibr210g-0">
-          <mxGeometry x="112" width="302" height="27" as="geometry">
-            <mxRectangle width="302" height="27" as="alternateBounds" />
+        <mxCell id="ru9Dy9kyQV0VUibr210g-2" value="Original Author, Approved by, Approved Date, Superseded Date,&lt;br&gt;Last Modified Date, Modified By, Last modification/Version" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="ru9Dy9kyQV0VUibr210g-0">
+          <mxGeometry x="80" width="300" height="32" as="geometry">
+            <mxRectangle width="300" height="32" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+          <mxGeometry x="40" y="360" width="240" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-4" value="ADR Directory Structure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+          <mxGeometry x="40" y="360" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="pS6SolYBH5boPpqod_it-1" source="ru9Dy9kyQV0VUibr210g-9" target="ru9Dy9kyQV0VUibr210g-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="470" />
+              <mxPoint x="99" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="pS6SolYBH5boPpqod_it-1" source="ru9Dy9kyQV0VUibr210g-9" target="ru9Dy9kyQV0VUibr210g-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="pS6SolYBH5boPpqod_it-1" target="ru9Dy9kyQV0VUibr210g-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="169" y="470" />
+              <mxPoint x="239" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-9" value="ADRs" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/filesystems/gnome-fs-directory.png" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+          <mxGeometry x="150" y="400" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="pS6SolYBH5boPpqod_it-1" source="ru9Dy9kyQV0VUibr210g-10" target="ru9Dy9kyQV0VUibr210g-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-10" value="Applications" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/filesystems/gnome-fs-directory.png" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+          <mxGeometry x="80" y="500" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-12" value="Integration" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/filesystems/gnome-fs-directory.png" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+          <mxGeometry x="150" y="500" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-14" value="Enterprise" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/filesystems/gnome-fs-directory.png" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+          <mxGeometry x="220" y="500" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ru9Dy9kyQV0VUibr210g-16" value="Common" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/filesystems/gnome-fs-directory.png" vertex="1" parent="pS6SolYBH5boPpqod_it-1">
+          <mxGeometry x="50" y="590" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
