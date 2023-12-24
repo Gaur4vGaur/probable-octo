@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T23:55:38.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="43OcnWw-VMoTV8yVAmpr" version="22.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-24T22:44:33.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WHFEnbZ9i77dYKOty1u6" version="22.1.11" type="github" pages="5">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,17 +11,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D_aSHfGU93LOoFwSEiPp" name="1.Design Process from DSA">
-    <mxGraphModel dx="2333" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_K3-e3nIAMMrsj7e7Ie5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13" y="84" width="1647" height="1770" as="geometry" />
         </mxCell>
-        <mxCell id="G44I5bm22PGStaO-mdOZ-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G44I5bm22PGStaO-mdOZ-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="154" width="750" height="1700" as="geometry" />
         </mxCell>
-        <mxCell id="4qJx4vvk8ybmtio3HGW6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4qJx4vvk8ybmtio3HGW6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="154" width="750" height="366" as="geometry" />
         </mxCell>
         <mxCell id="_K3-e3nIAMMrsj7e7Ie5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K3-e3nIAMMrsj7e7Ie5-3" target="_K3-e3nIAMMrsj7e7Ie5-4" edge="1">
@@ -171,7 +171,7 @@
         <mxCell id="2MoEXaPzXH57qQEaV4M--6" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;23/10/23&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2MoEXaPzXH57qQEaV4M--8" vertex="1">
           <mxGeometry x="770" y="10" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2MoEXaPzXH57qQEaV4M--3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="G44I5bm22PGStaO-mdOZ-47">
+        <mxCell id="2MoEXaPzXH57qQEaV4M--3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="G44I5bm22PGStaO-mdOZ-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="53" y="154" as="sourcePoint" />
             <mxPoint x="863" y="154" as="targetPoint" />
@@ -180,14 +180,14 @@
         <mxCell id="2MoEXaPzXH57qQEaV4M--2" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;Design Process&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="33" y="114" width="810" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G44I5bm22PGStaO-mdOZ-49" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Reference:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;Fundamentals of Software Architecture Book by Mark Richards &amp;amp; Neal Ford" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G44I5bm22PGStaO-mdOZ-49" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Reference:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;Fundamentals of Software Architecture Book by Mark Richards &amp;amp; Neal Ford" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="170" width="570" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="XxeI75fkuyNcYIc5-Uh2" name="2 Design Process LDDD">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,7 +322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LshDc3MtuV5W4-pdeo2u" name="3. Event Storming">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +350,7 @@
         <mxCell id="myrMhJMkrho5OivPTeJW-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="myrMhJMkrho5OivPTeJW-48" target="myrMhJMkrho5OivPTeJW-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="myrMhJMkrho5OivPTeJW-48" value="&lt;h3&gt;Unstructured Explanation&lt;/h3&gt;&lt;p&gt;List all domain events or services or gather the know information information&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="myrMhJMkrho5OivPTeJW-48" value="&lt;h3&gt;Unstructured Explanation&lt;/h3&gt;&lt;p&gt;List all domain events or services or gather the known information information&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="238" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="myrMhJMkrho5OivPTeJW-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="myrMhJMkrho5OivPTeJW-50" target="myrMhJMkrho5OivPTeJW-52" edge="1">
@@ -362,7 +362,7 @@
         <mxCell id="myrMhJMkrho5OivPTeJW-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="myrMhJMkrho5OivPTeJW-52" target="myrMhJMkrho5OivPTeJW-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="myrMhJMkrho5OivPTeJW-52" value="&lt;h3&gt;Pain Points&lt;/h3&gt;&lt;p&gt;Add any know pain points or risks or assumptions&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="myrMhJMkrho5OivPTeJW-52" value="&lt;h3&gt;Pain Points&lt;/h3&gt;&lt;p&gt;Add any known pain points or risks or assumptions&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="600" y="238" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="myrMhJMkrho5OivPTeJW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="myrMhJMkrho5OivPTeJW-55" target="myrMhJMkrho5OivPTeJW-57" edge="1">
