@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-24T22:44:33.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WHFEnbZ9i77dYKOty1u6" version="22.1.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-24T23:07:35.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dD2P7q_KFOYv52LKsZEV" version="22.1.11" type="github" pages="5">
   <diagram name="Index" id="-D8-CAkWD_-L6msVdu2U">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D_aSHfGU93LOoFwSEiPp" name="1.Design Process from DSA">
-    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,7 +322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LshDc3MtuV5W4-pdeo2u" name="3. Event Storming">
-    <mxGraphModel dx="1502" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,7 +423,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZCfiUVoCertmPmJrlqMF" name="4.Requirements and NFRs">
-    <mxGraphModel dx="1000" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,6 +563,87 @@
         </mxCell>
         <mxCell id="AaDinikRDWnVSLHjSas2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5SOkAYYOtCMW5vcn5Zd_-10" target="AaDinikRDWnVSLHjSas2-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-1" value="Considerations for NFRs for Distributed Architecture" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=12;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="26" y="620" width="414" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-1">
+          <mxGeometry y="30" width="414" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-3" value="Network Reliability" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;textDirection=ltr;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-2">
+          <mxGeometry width="112" height="26" as="geometry">
+            <mxRectangle width="112" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Always consider network failures&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-2">
+          <mxGeometry x="112" width="302" height="26" as="geometry">
+            <mxRectangle width="302" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-1">
+          <mxGeometry y="56" width="414" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-6" value="Latency" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-5">
+          <mxGeometry width="112" height="64" as="geometry">
+            <mxRectangle width="112" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Time &lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;(local microservice call)&lt;/sub&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; &amp;lt; Time&lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;(remote service call)&lt;br&gt;&lt;/sub&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Find out what is average latency - 20 milli sec or 500 milli sec&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;How many calls -&amp;gt; # of calls X time of latency = response time&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Consider 95th and 99th percentile latency | long tail latency&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;verticalAlign=top;align=left;fontSize=10;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-5">
+          <mxGeometry x="112" width="302" height="64" as="geometry">
+            <mxRectangle width="302" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-1">
+          <mxGeometry y="120" width="414" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-9" value="Bandwidth" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-8">
+          <mxGeometry width="112" height="56" as="geometry">
+            <mxRectangle width="112" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-10" value="Measure data travelling through network&lt;br&gt;As number of call increases, the bandwidth decreases, &lt;br&gt;resulting in low latency and decreased reliability" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-8">
+          <mxGeometry x="112" width="302" height="56" as="geometry">
+            <mxRectangle width="302" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-11" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-1">
+          <mxGeometry y="176" width="414" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-12" value="Security of network" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-11">
+          <mxGeometry width="112" height="27" as="geometry">
+            <mxRectangle width="112" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-13" value="With microservice, threat area increases" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-11">
+          <mxGeometry x="112" width="302" height="27" as="geometry">
+            <mxRectangle width="302" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-14" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-1">
+          <mxGeometry y="203" width="414" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-15" value="Changes in N/W topology" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-14">
+          <mxGeometry width="112" height="49" as="geometry">
+            <mxRectangle width="112" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-16" value="Changes in network can invalidate all latency measures&lt;br&gt;Always consider network firewalls, network upgrades &lt;br&gt;or any other threat measure" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-14">
+          <mxGeometry x="112" width="302" height="49" as="geometry">
+            <mxRectangle width="302" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-1">
+          <mxGeometry y="252" width="414" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-18" value="Validating transport cost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-17">
+          <mxGeometry width="112" height="25" as="geometry">
+            <mxRectangle width="112" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFWZJmr2uppeQ4Kcy4Y3-19" value="API Calls + DB Calls and actual dollar value" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;verticalAlign=top;align=left;" vertex="1" parent="EFWZJmr2uppeQ4Kcy4Y3-17">
+          <mxGeometry x="112" width="302" height="25" as="geometry">
+            <mxRectangle width="302" height="25" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
