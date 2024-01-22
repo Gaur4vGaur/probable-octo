@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T09:33:24.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LplqPuR5JXoZzBoOE37s" version="22.1.21" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-22T09:34:08.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="D3LEHPluRc9-HAk72PBj" version="22.1.21" type="github" pages="8">
   <diagram name="FiveWhatSA" id="X454g6R_AvgZhv90Q3pv">
     <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -544,20 +544,20 @@
         <mxCell id="saXk4MpZLR6YOtKaHlvY-1" value="T1-1. Cloud Native Design" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="X3p9GfTBQpLmAsuJgR_G-1" vertex="1">
           <mxGeometry x="294.31" y="3410" width="298.61" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S0noTBp6W47c_hCEB3zz-0" value="Stateless functions" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
-          <mxGeometry x="-280" y="3560" width="130.01" height="60" as="geometry" />
+        <mxCell id="S0noTBp6W47c_hCEB3zz-0" value="4 Stateless functions" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
+          <mxGeometry x="-310" y="3560" width="160.01" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S0noTBp6W47c_hCEB3zz-2" value="Idempotency" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
+        <mxCell id="S0noTBp6W47c_hCEB3zz-2" value="4 Idempotency" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
           <mxGeometry x="-280.005" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S0noTBp6W47c_hCEB3zz-5" value="Retry and backoff strategies" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
+        <mxCell id="S0noTBp6W47c_hCEB3zz-5" value="4 Retry and backoff strategies" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
           <mxGeometry x="-280" y="3350" width="205.01" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S0noTBp6W47c_hCEB3zz-8" value="Timeouts and circuit breakers" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
-          <mxGeometry x="-69.99499999999999" y="3280" width="120" height="60" as="geometry" />
+        <mxCell id="S0noTBp6W47c_hCEB3zz-8" value="4 Timeouts and circuit breakers" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
+          <mxGeometry x="-140" y="3280" width="210.01" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S0noTBp6W47c_hCEB3zz-10" value="Long running&amp;nbsp; function tasks" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
-          <mxGeometry x="61.775000000000006" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="S0noTBp6W47c_hCEB3zz-10" value="4 Long running&amp;nbsp; function tasks" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="X3p9GfTBQpLmAsuJgR_G-1">
+          <mxGeometry x="61.78" y="3350" width="198.23" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
