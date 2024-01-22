@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T09:34:08.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="D3LEHPluRc9-HAk72PBj" version="22.1.21" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-22T09:34:44.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="54Ujwih_xzxAFa7N5stZ" version="22.1.21" type="github" pages="8">
   <diagram name="FiveWhatSA" id="X454g6R_AvgZhv90Q3pv">
     <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -302,48 +302,48 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1pJIN97Tb5qw8qOk7Wgt" name="T4-1. Event-driven architecture">
-    <mxGraphModel dx="1791" dy="-1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="-1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-9">
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-8">
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-10">
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-13">
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-12">
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=1.039;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-11">
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=1.039;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="Mzv_hWdFjt0yVhlgNdH0-7" target="Mzv_hWdFjt0yVhlgNdH0-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-7" value="1.&amp;nbsp;Event-driven architecture&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;ul style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 4px 0px; padding-inline-start: 36px;&quot; data-sourcepos=&quot;11:1-14:0&quot;&gt;&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; color: rgb(227, 227, 227); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(19, 19, 20);&quot;&gt;&lt;/span&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="2762.8" width="120" height="60" as="geometry" />
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-7" value="1.&amp;nbsp;Event-driven architecture&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;ul style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 4px 0px; padding-inline-start: 36px;&quot; data-sourcepos=&quot;11:1-14:0&quot;&gt;&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; color: rgb(227, 227, 227); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(19, 19, 20);&quot;&gt;&lt;/span&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="355" y="2392.8" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-8" value="2. Serverless Integration " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-20.000428909385704" y="2869.9979776888304" width="170" height="40" as="geometry" />
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-8" value="2. Serverless Integration " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="144.9995710906143" y="2499.9979776888304" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-9" value="2. Hybrid and Multi-Cloud Adoption " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2870" width="240" height="40" as="geometry" />
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-9" value="2. Hybrid and Multi-Cloud Adoption " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="535" y="2500" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-10" value="2. Real-Time Data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-50.00334761373702" y="2772.7996778345073" width="170" height="40" as="geometry" />
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-10" value="2. Real-Time Data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="114.99665238626298" y="2402.7996778345073" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-11" value="2. Security Focus " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370.0029593240564" y="2690.0013271342336" width="170" height="40" as="geometry" />
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-11" value="2. Security Focus " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="535.0029593240564" y="2320.0013271342336" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-12" value="2. EDA Observability and Monitoring " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="2690" width="240" height="40" as="geometry" />
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-12" value="2. EDA Observability and Monitoring " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="75" y="2320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-13" value="2. Cloud-native EDA " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="390.00084881457406" y="2772.804406141105" width="170" height="40" as="geometry" />
+        <mxCell id="Mzv_hWdFjt0yVhlgNdH0-13" value="2. Cloud-native EDA " style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="555.000848814574" y="2402.804406141105" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
